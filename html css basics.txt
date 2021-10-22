@@ -1,0 +1,27 @@
+div will take whole block no one come inside this block breakfast places in mumbai
+when i try first i have to work and see what are the work that i am going to do
+i use universal selector(*) means it select all the contents that is available in the web page
+class selector(.) and id selector(#) i already know
+avasara padukiren niraya ilakkiren nilai thadumarukiren
+ithil header enbathu oru element athai select panna oru antha element name ah mattum kuduthal pothum like header
+<div> parent div whenever i changed the parent div it will take the child div also
+<div></div> child div na face panna problem
+</div> parent div
+
+padding 15px top and bottom and 15px right and left
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
